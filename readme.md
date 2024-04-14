@@ -10,3 +10,5 @@ It should have the following functionalities.
 - Copyable/Shareable
 
 After much searching, we can use [React Grid Layout](https://github.com/react-grid-layout/react-grid-layout/tree/master?tab=readme-ov-file). It is a widely used library. It also doesn't use jQuery, only React.
+
+Need to [learn react first](https://react.dev/learn/tutorial-tic-tac-toe).
