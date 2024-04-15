@@ -1,0 +1,10 @@
+.react-grid-item{
+  background-color: rgb(255, 252, 252);
+  padding: 0.3em;
+}
+
+
+.react-grid-layout{
+  padding-bottom: 0.5em;
+  background-color: rgb(243, 243, 243);
+}
